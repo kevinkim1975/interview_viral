@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/MyProject/%EC%84%A4%EB%AC%B8%EC%A7%80/interview_viral/app/layout.tsx"],"sourcesContent":["import type { Metadata } from 'next'\r\nimport './globals.css'\r\n\r\nexport const metadata: Metadata = {\r\n  title: '호원앤컴퍼니 인터뷰 사전 설문지',\r\n  description: '호원앤컴퍼니 채용 인터뷰 사전 설문',\r\n}\r\n\r\nexport default function RootLayout({\r\n  children,\r\n}: {\r\n  children: React.ReactNode\r\n}) {\r\n  return (\r\n    <html lang=\"ko\">\r\n      <body className=\"antialiased\">\r\n        {children}\r\n      </body>\r\n    </html>\r\n  )\r\n}"],"names":[],"mappings":";;;;;;;;;AAGO,MAAM,WAAqB;IAChC,OAAO;IACP,aAAa;AACf;AAEe,SAAS,WAAW,EACjC,QAAQ,EAGT;IACC,qBACE,8OAAC;QAAK,MAAK;kBACT,cAAA,8OAAC;YAAK,WAAU;sBACb;;;;;;;;;;;AAIT"}},
+    {"offset": {"line": 38, "column": 0}, "map": {"version":3,"sources":["file:///C:/MyProject/%EC%84%A4%EB%AC%B8%EC%A7%80/interview_viral/node_modules/next/src/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = (\n  require('../../module.compiled') as typeof import('../../module.compiled')\n).vendored['react-rsc']!.ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":"AAAAA,OAAOC,OAAO,GACZC,QAAQ,4HACRC,QAAQ,CAAC,YAAY,CAAEC,kBAAkB","ignoreList":[0]}}]
+}
