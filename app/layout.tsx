@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: '호원앤컴퍼니 인터뷰 사전 설문지',
+  title: '호원앤컴퍼니 · Pre-Interview Survey',
   description: '호원앤컴퍼니 채용 인터뷰 사전 설문',
   icons: {
     icon: '/icon.png',
