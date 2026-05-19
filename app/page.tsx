@@ -427,7 +427,7 @@ export default function SurveyPage() {
               {values.name && <><strong style={{ color: 'var(--terra)', fontWeight: 500 }}>{values.name}</strong>님, </>}
               설문을 제출해 주셔서 진심으로 감사드립니다.<br />
               답변은 채용 과정에 소중하게 활용하겠습니다.<br />
-              곧 채용 담당자가 연락드리겠습니다.
+              2차 전형에서 합격하게 되면 채용 담당자가 연락드릴것입니다.
             </p>
             <button className="modal__close" onClick={resetAfterDone}>닫기</button>
           </div>
