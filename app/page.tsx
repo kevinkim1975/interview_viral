@@ -77,6 +77,13 @@ const QUESTIONS: Question[] = [
       label: '호원앤컴퍼니 블로그 열어보기',
     },
   },
+  {
+    id: 'seo',
+    kind: 'textarea',
+    required: true,
+    title: '블로그 상위노출을 진행한 경험과 진행할 때 주의하여 진행하고 있는 부분을 알려주십시오',
+    placeholder: '상위노출 경험과, 진행 시 특히 주의하시는 부분을 자유롭게 작성해 주세요.',
+  },
 ]
 
 /* — Icons — */
